@@ -1,0 +1,8 @@
+prefix=/home/zen/Documents/RoBot/mybot_ws/devel/.private/mybot_description
+
+Name: mybot_description
+Description: Description of mybot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zen/Documents/RoBot/mybot_ws/devel/.private/mybot_description/lib 
+Requires: 
